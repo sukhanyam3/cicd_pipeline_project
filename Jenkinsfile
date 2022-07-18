@@ -2,7 +2,7 @@ pipeline {
     agent any
     tools { 
         maven 'Maven' 
-        jdk 'java' 
+       
     }
    // environment {
      //   EMAIL_TO = 'bharathreddyv88@gmail.com'
